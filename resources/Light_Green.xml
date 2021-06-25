@@ -1,0 +1,33 @@
+<scheme name="Light Green" version="142" parent_scheme="Default">
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="e5ffe5"/>
+    <option name="GUTTER_BACKGROUND" value="e5ffe5"/>
+  </colors>
+  <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="BACKGROUND" value="e5ffe5"/>
+        <option name="EFFECT_COLOR" value="ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="DCE2F1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="e5ffe5"/>
+      </value>
+    </option>
+  </attributes>
+</scheme>

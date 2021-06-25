@@ -1,0 +1,45 @@
+{
+  "name": "Light Green",
+  "dark": false,
+  "author": "caijh",
+  "editorScheme": "/Light_Green.xml",
+  "colors": {
+    "bg": "#e5ffe5",
+    "blue0": "#167DFF",
+    "blue1": "#0000F6",
+    "btnStartBg": "#FAF9DE",
+    "btnEndBg": "#FAF9DE"
+  },
+  "ui": {
+    "*": {
+      "background": "bg"
+    },
+    "List.selectionBackground": "blue0",
+    "ActionButton": {
+      "hoverBackground": "blue0"
+    },
+    "Button": {
+      "default": {
+        "foreground": "#ececee",
+        "startBackground": "blue0",
+        "endBackground": "blue0",
+        "startBorderColor": "blue0",
+        "endBorderColor": "blue0"
+      }
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "#EAEAEF"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "bg",
+        "inactiveBackground": "bg"
+      },
+
+      "HeaderTab": {
+        "selectedInactiveBackground": "bg",
+        "hoverInactiveBackground": "bg"
+      }
+    }
+  }
+}

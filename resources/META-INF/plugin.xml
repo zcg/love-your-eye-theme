@@ -1,8 +1,8 @@
 <idea-plugin>
   <id>com.github.zcg.love-your-eye-theme</id>
   <name>Love Your Eyes Theme</name>
-  <version>1.0.3</version>
-  <vendor email="208580585@qq.com" url="http://github.com/zcg/love-your-eye-theme">光</vendor>
+  <version>2.0.0</version>
+  <vendor email="caiqizhe@gmail.com" url="https://github.com/caijh/love-your-eye-theme">John</vendor>
 
   <description><![CDATA[
   EN:
@@ -27,7 +27,9 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="8b7f9bbc-547d-4f14-8bb7-5d54db73737a" path="/Light_green.theme.json"/>
+    <themeProvider id="8b7f9bbc-547d-4f14-8bb7-5d54db73737a" path="/Light_Green.theme.json"/>
+    <themeProvider id="7b642a2d-0de4-41e4-bca5-750aa035c0e0" path="/Light_Yellow.theme.json"/>
+    <themeProvider id="fe5980f2-7750-4e66-bd8e-0b2d8fc17dc4" path="/Light_Brown.theme.json"/>
   </extensions>
 
   <actions>
